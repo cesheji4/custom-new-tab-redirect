@@ -1,0 +1,17 @@
+{
+   "action": {
+      "default_popup": "popup.html",
+      "default_title": "Set New Tab Link"
+   },
+   "chrome_url_overrides": {
+      "newtab": "homepage.html"
+   },
+   "description": "Redirects the new tab to a custom link.",
+   "icons": {
+      "128": "images/icon128.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA4kwxyz3JX09KIjt+l1mBVr9MrmL+1pWrqmOUeQhoVdU6knmbZWKnAt+dR+G5WhHV003CMoZ2hjBLTj30TAAvYK5ohd3R/kK7JygHkklgFevdGmZ70rpmqO1VR0l2lzsL5loKeNVQ3i2r5etsCwzQWQaQJ3+EeBWKCZyj1/GaagAwv4nDlvz711+4IC7TNtyPWOVGVjMOqaQTzMl6o4AqcCeaj7F4sUZmWCtpaf40Qv0RZAetkMvMLCKRzlxCz2BbXhDA8gBEbfRX0fxWk6f4rKYTxKuuTJREyiGKNv4kPh9GlKPrCoHDRWI9aeVzigTCH0uRCTAzJvLpH8HKBHiC0wIDAQAB",
+   "manifest_version": 3,
+   "name": "Custom New Tab Redirect",
+   "version": "1.2"
+}
